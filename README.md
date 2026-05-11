@@ -205,7 +205,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" />
 
 <br/>
 
@@ -228,10 +228,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="48"/>
 
-![Spline](https://img.shields.io/badge/Spline-0D1117?style=for-the-badge&logo=spline&logoColor=FF6B6B)
-![Canvas API](https://img.shields.io/badge/Canvas_API-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+<img src="https://avatars.githubusercontent.com/u/42080511?s=200&v=4" height="48" style="border-radius:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=html&theme=dark" height="48"/>
 
 </div>
 
