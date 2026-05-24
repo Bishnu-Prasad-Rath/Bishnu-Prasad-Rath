@@ -134,7 +134,7 @@ Mongoose
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=socketio&theme=dark" width="48"/><br/>
+<img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="48"/><br/>
 Socket.io
 </td>
 
@@ -149,7 +149,7 @@ LiveKit
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/websocket/ffffff" width="48"/><br/>
+<img src="https://img.icons8.com/fluency/48/network.png" width="48"/><br/>
 WebSockets
 </td>
 
@@ -217,7 +217,7 @@ Figma
 </td>
 
 <td align="center">
-<img src="https://avatars.githubusercontent.com/u/42080511?s=200&v=4" width="48"/><br/>
+<img src="https://community.spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png&w=64&q=75" width="48"/><br/>
 Spline
 </td>
 
