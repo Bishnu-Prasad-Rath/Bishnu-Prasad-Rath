@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Bishnu+Prasad+Rath;Full+Stack+Developer;Building+Real-Time+Systems" />
+<img src="https://user-images.githubusercontent.com/74038190/212750337-1da2a6d0-0951-45d9-883c-3b3e6289d4d5.gif" width="170"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,nodejs,express,mongodb,redis,docker,git,github,vscode,figma&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=60&lines=Bishnu+Prasad+Rath;Full+Stack+Developer;Building+Real-Time+Systems" />
 
 <br/><br/>
 
@@ -14,45 +14,228 @@
 
 ---
 
-## about
+# about
 
 ```txt
 full stack developer focused on:
 - immersive frontend experiences
-- scalable backend architecture
-- real-time systems
-- ui/ux inspired interfaces
+- scalable backend systems
+- real-time communication
+- modern ui/ux experiences
 
 india 🇮🇳 → japan 🇯🇵
 ```
 
 ---
 
-## tech stack
+# tech stack
 
-### frontend
+## frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,vite&theme=dark" />
-</p>
+<div align="left">
 
-### backend
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/>
+React
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker&theme=dark" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48"/><br/>
+Redux
+</td>
 
-### tools
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/>
+JavaScript
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/><br/>
+TypeScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/>
+HTML5
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/>
+CSS3
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/><br/>
+Tailwind
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48"/><br/>
+Vite
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## projects
+## backend
 
-### 📺 real-time video platform
+<div align="left">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br/>
+Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="48"/><br/>
+Express
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br/>
+MongoDB
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48"/><br/>
+Redis
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/>
+Docker
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/mongoose/880000" width="48"/><br/>
+Mongoose
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## real-time & systems
+
+<div align="left">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=socketio&theme=dark" width="48"/><br/>
+Socket.io
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/redis/DC382D" width="48"/><br/>
+BullMQ
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/livekit/FF4F64" width="48"/><br/>
+LiveKit
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/websocket/ffffff" width="48"/><br/>
+WebSockets
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## security & devops
+
+<div align="left">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" width="48"/><br/>
+JWT
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="48"/><br/>
+GitHub Actions
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/jest/C21325" width="48"/><br/>
+Jest
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/puppeteer/40B5A4" width="48"/><br/>
+Puppeteer
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/pm2/ffffff" width="48"/><br/>
+PM2
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="48"/><br/>
+Cloudinary
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## design
+
+<div align="left">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/><br/>
+Figma
+</td>
+
+<td align="center">
+<img src="https://avatars.githubusercontent.com/u/42080511?s=200&v=4" width="48"/><br/>
+Spline
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/>
+Canvas API
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# featured projects
+
+## 📺 real-time video platform
 
 ```txt
 scalable full-stack application featuring:
@@ -61,49 +244,64 @@ scalable full-stack application featuring:
 - socket.io communication
 - jwt authentication
 - cloudinary media handling
+- production-ready backend architecture
 ```
 
-### 📝 megablog
+---
+
+## 📝 megablog
 
 ```txt
 modern blogging platform with:
 - authentication
 - responsive ui
-- backend architecture
 - rich text editing
+- scalable backend integration
 ```
 
-### 🔫 2d shooting game
+---
+
+## 🔫 2d shooting game
 
 ```txt
 canvas-based shooting game featuring:
 - collision detection
-- particles
-- hp systems
-- animations
+- particle systems
+- hp mechanics
+- animation systems
 ```
 
 ---
 
-## github stats
+# github analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bishnu-Prasad-Rath&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bishnu-Prasad-Rath&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishnu-Prasad-Rath&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishnu-Prasad-Rath&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Bishnu-Prasad-Rath&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Bishnu-Prasad-Rath&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bishnu-Prasad-Rath&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## current focus
+# current focus
 
 ```txt
 ⚡ scalable backend systems
@@ -111,24 +309,25 @@ canvas-based shooting game featuring:
 ⚡ real-time communication
 ⚡ system design
 ⚡ immersive ui/ux
+⚡ production-ready architecture
 ```
 
 ---
 
-## connect
+# connect
 
 <div align="left">
 
 <a href="https://github.com/Bishnu-Prasad-Rath">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
 </a>
 
 <a href="mailto:rbishnu604@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45"/>
 </a>
 
 <a href="https://linkedin.com/in/bishnu55707x-dev">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45"/>
 </a>
 
 </div>
@@ -140,5 +339,7 @@ canvas-based shooting game featuring:
 ```txt
 building immersive digital experiences ⚡
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
 
 </div>
