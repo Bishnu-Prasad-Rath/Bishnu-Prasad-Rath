@@ -277,9 +277,7 @@ canvas-based shooting game featuring:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bishnu-Prasad-Rath&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishnu-Prasad-Rath&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bishnu-Prasad-Rath&theme=github_dark" />
 
 </div>
 
