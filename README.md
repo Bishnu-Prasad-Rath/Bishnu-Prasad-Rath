@@ -4,7 +4,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bishnu-Prasad-Rath/Bishnu-Prasad-Rath/main/light.svg?v=1">
   <img alt="Bishnu Prasad Rath" src="https://raw.githubusercontent.com/Bishnu-Prasad-Rath/Bishnu-Prasad-Rath/main/light.svg?v=1">
 </picture>
-
 <br/>
 <!-- STATS CARDS (Self-hosted on Vercel - Cache Busted) -->
 <div align="center">
@@ -13,7 +12,6 @@
   <img width="49%" src="https://github-readme-stats-ten-iota-rtqt4i8i8i.vercel.app/api?username=Bishnu-Prasad-Rath&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500&v=1" alt="stats" />
   <img width="49%" src="https://github-readme-stats-ten-iota-rtqt4i8i8i.vercel.app/api/top-langs/?username=Bishnu-Prasad-Rath&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500&v=1" alt="top languages" />
 </div>
-
 <br/>
 <!-- CONTRIBUTION SNAKE -->
 <div align="center">
@@ -23,7 +21,6 @@
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Bishnu-Prasad-Rath/Bishnu-Prasad-Rath/output/github-snake.svg?v=1" />
   </picture>
 </div>
-
 <br/>
 <!-- SOCIAL BADGES -->
 <div align="center">
